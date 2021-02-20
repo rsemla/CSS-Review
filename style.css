@@ -56,17 +56,21 @@ color: black;
 a:link {
     text-decoration: none;
     color: black;
+    text-align: center;
 }
 a:visited {
     text-decoration: none;
-    color: red;
+    color: red
+        text-align: center;
 }
 a:hover {
     text-decoration: none;
     color: grey;
+    text-align: center;
 }
 a:active {
     text-decoration: none;
     color: green;
+    text-align: center;
 }
 
