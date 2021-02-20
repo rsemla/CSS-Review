@@ -24,7 +24,7 @@ h6 {
 }
 .topnav ul.navbar-nav li a {
 background: rgba(28, 28, 28, 0.1);
-color: #000;
+color: black;
 }
 .topnav ul.navbar-nav li a:hover,
 .topnav ul.navbar-nav li a:focus
