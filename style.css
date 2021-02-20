@@ -55,8 +55,8 @@ color: #000;
     text-align: center;
     image: url('https://d2d0b2rxqzh1q5.cloudfront.net/sv/1.67/dir/73e/image/73e4a4b5345d68a106f0d59cde4064da.jpg" alt="Ferrari');
    /* background: url('https://d2d0b2rxqzh1q5.cloudfront.net/sv/1.67/dir/73e/image/73e4a4b5345d68a106f0d59cde4064da.jpg') no-repeat center center fixed;
-    background-size: cover; */
-    height: 855px;
+    background-size: cover; 
+    height: 855px;*/
 }
 .bg-overlay {
   background:rgba(0,0,0, 0.3);
