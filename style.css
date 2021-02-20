@@ -30,7 +30,7 @@ color: #000;
 .topnav ul.navbar-nav li a:focus
  {
 background: rgba(255, 255, 255, 0.5);
-color: #000;
+color: black;
 }
 
 .topnav .navbar-brand {
