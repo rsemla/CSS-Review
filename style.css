@@ -1,0 +1,63 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.topnav {
+    font-size: 16px;
+    border-bottom: 1px outset rgba(192, 192, 192, 0.5);
+    background: rgba(192, 192, 192, 0.9);
+    box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
+}
+.topnav ul.navbar-nav li a {
+background: rgba(28, 28, 28, 0.1);
+color: #000;
+}
+.topnav ul.navbar-nav li a:hover,
+.topnav ul.navbar-nav li a:focus
+ {
+background: rgba(255, 255, 255, 0.5);
+color: #000;
+}
+
+.topnav .navbar-brand {
+  background: rgba(28, 28, 28, 0.0);
+  color: #000;
+}
+
+.topnav .navbar-brand:hover,
+.topnav .navbar-brand:focus {
+  background: rgba(255, 255, 255, 0.5);
+  color: #000;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+/*top background*/
+.intro-header { 
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://d2d0b2rxqzh1q5.cloudfront.net/sv/1.67/dir/73e/image/73e4a4b5345d68a106f0d59cde4064da.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+.bg-overlay {
+  background:rgba(0,0,0, 0.3);
+  height: 855px;
+}
