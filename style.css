@@ -70,7 +70,7 @@ a:active {
 }
 .row {
   display: flex;
-  width: 100%;
+  width: 50%;
 }
 
 .row div {
@@ -78,7 +78,7 @@ a:active {
 }
 
 .noMargin {
-  margin: 0px;
+  margin: 3px;
 }
 
 .one {
