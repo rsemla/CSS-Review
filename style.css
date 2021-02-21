@@ -5,16 +5,6 @@ html {
     
 }
 
-body,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-}
 
 .topnav {
     font-size: 16px;
@@ -68,4 +58,15 @@ a:active {
     color: green;
     text-align: center;
 }
-       
+.product{
+  height:200px;
+  width:200px;
+  margin-top:10px;
+  margin-left:8px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  text-color:white;
+  background:blue;
+  align-items:center;
+}
