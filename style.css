@@ -68,31 +68,3 @@ a:active {
     color: green;
     text-align: center;
 }
-.row {
-  display: flex;
-  width: 50%;
-}
-
-.row div {
-  width: 50%;
-}
-
-.noMargin {
-  margin: 3px;
-}
-
-.one {
-  background-color: blue;
-}
-
-.two {
-  background-color: blue;
-}
-
-.three {
-  background-color: blue;
-}
-
-.four {
-  background-color: blue;
-}
