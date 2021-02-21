@@ -68,10 +68,23 @@ a:active {
     color: green;
     text-align: center;
 }
-box {
-  width: 300px;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 20px;
+.noMargin {
+  margin: 0px;
+}
+
+.one {
+  background-color: blue;
+}
+
+.two {
+  background-color: blue;
+}
+
+.three {
+  background-color: blue;
+}
+
+.four {
+  background-color: blue;
 }
 
