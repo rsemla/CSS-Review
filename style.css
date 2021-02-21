@@ -67,6 +67,7 @@ a:active {
   flex-direction:column;
   justify-content:center;
   text-color:white;
+    font-color:white;
   background:blue;
   align-items:center;
 }
