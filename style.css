@@ -45,7 +45,7 @@ a:link {
 }
 a:visited {
     text-decoration: none;
-    color: red;
+    color: black;
     text-align: center;
 }
 a:hover {
@@ -55,7 +55,7 @@ a:hover {
 }
 a:active {
     text-decoration: none;
-    color: green;
+    color: black;
     text-align: center;
 }
 .product{
